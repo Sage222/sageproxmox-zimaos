@@ -25,7 +25,7 @@ The **ISO script** (`zimaos_zimacube_installer-iso.sh`) is the easiest way to in
 
 1. **Run the script** on your Proxmox node (SSH):
    ```bash
-   bash -c "$(wget -qLO - https://raw.githubusercontent.com/R0GGER/proxmox-zimaos/refs/heads/main/zimaos_zimacube_installer-iso.sh)"
+   bash -c "$(wget -qLO - https://raw.githubusercontent.com/Sage222/sageproxmox-zimaos/refs/heads/main/zimaos_zimacube_installer-iso.sh)"
    ```
 2. **Answer a few prompts** (you can press Enter to accept defaults):
    - ZimaOS version (`latest` or a specific version number, e.g. `1.5.4`)
