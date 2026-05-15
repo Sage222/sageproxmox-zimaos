@@ -92,7 +92,7 @@ done
 read -p "Name [ZimaOS]: " VM_NAME
 VM_NAME=${VM_NAME:-ZimaOS}
 
-DISK_STORAGE="local-lvm"
+DISK_STORAGE="local-zfs"
 check_volume $DISK_STORAGE
 
 # Disk Size
