@@ -1,5 +1,7 @@
 # ZimaOS Installation Guide for Proxmox
 
+Forked from  R0GGER/proxmox-zimaos. All credit to him.  This version is the same though changes storage to local-zfs.  As R0gger's version was set to a different file system.
+
 This guide provides step-by-step instructions for installing [ZimaOS](https://github.com/IceWhaleTech/zimaos) on Proxmox Virtual Environment. ZimaOS is a modern NAS operating system that can be easily deployed as a virtual machine.
 
 ## 📋 Table of Contents
